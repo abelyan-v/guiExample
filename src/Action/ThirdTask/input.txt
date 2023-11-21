@@ -1,0 +1,4 @@
+it| это
+translation | перевод
+example | пример
+it is translation example | это пример перевода
